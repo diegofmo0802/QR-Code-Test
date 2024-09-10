@@ -15,7 +15,6 @@
       "baseUrl": "src"
     },
     "include": [
-      "src/**/*"
-, "test client/src/client/main.ts"    ]
+      "src/**/*" ]
   }
   
